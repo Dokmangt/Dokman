@@ -1,0 +1,25 @@
+# Windows build artifacts
+*.pdb
+*.exp
+*.lib
+*.ilk
+
+# Logs / temp
+*.log
+*.tmp
+*.cache
+
+# Archives
+*.zip
+*.7z
+*.rar
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
